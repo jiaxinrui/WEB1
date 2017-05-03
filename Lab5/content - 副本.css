@@ -1,0 +1,17 @@
+#c{
+	font-size: 20px;
+	font-family: 微软雅黑;
+	color:#686868;
+}
+#d{
+	font: Arial 12px;
+	color: #a9a8a8;
+}
+#v{
+	background-color: gray;
+	height: 400px;
+}
+#g{
+	background-image: url(images/butbg.gif);
+	height: 800;
+}

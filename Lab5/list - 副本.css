@@ -1,0 +1,40 @@
+ul.e{
+	list-style-type: disc;
+}
+ul.r{
+	list-style-image: url(images/1.png);
+}
+#e a:hover{
+	color: #b9f605;
+	text-decoration:none;
+}
+#b{
+	font-size: 14px;
+
+}
+#s{
+	background-image: url(images/menutitle.gif);
+	height: 40px;
+}
+.9{
+	padding: 20px;
+	background-image: url(images/butbg.gif);
+	height: 400px;
+}
+#f{
+	background-image: url(images/menutitle.gif);
+	height: 30px;
+}
+
+#y{
+	background-image: url(images/news_bg.gif);
+}
+#p{
+	background: url(images/butbg.gif);
+}
+#k{
+	background-image: url(images/pagebg_1.gif);
+}
+#m{
+	background-image: url(images/pagebg.gif);
+}
