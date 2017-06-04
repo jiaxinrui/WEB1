@@ -13,23 +13,23 @@ body{
 	font: 12px 宋体;
 	padding: 0px;
 	color: #522a06; 
-	background-image: url(images/bodybg.gif);
+	background-image: url(bodybg.gif);
 }
 #header{
 	height: 205px;
-	background-image: url( images/bg.gif);
+	background-image: url( bg.gif);
 	background-position: center top; 
 }
 #banner{
 	width: 1300px;
 	height: 164px;
-	background-image: url(images/logo.png);
+	background-image: url(logo.png);
 	background-position: 200px 25px;
 	background-repeat: no-repeat;
 }
 #nav{
 	height: 40px;
-	background-image: url( images/nav.jpg);
+	background-image: url( nav.jpg);
 }
 #nav_body{
 	width: 1300px;
@@ -141,7 +141,7 @@ a.k:hover{color: #f9f603;
 	text-decoration-line: none;}
 #top{
 	border:  1px solid #c9b;
-	background-image: url(images/bg.png);
+	background-image: url(bg.png);
 	margin-bottom: 20px;
 }	
 #j{
@@ -165,7 +165,7 @@ ul li{
 	width: 280px;
 	margin-bottom: 20px;
 	margin-top: 70px;
-	background-image: url(images/show_bg.png);
+	background-image: url(show_bg.png);
 	background-repeat: no-repeat;
 	height:400px; 
 	
@@ -185,7 +185,7 @@ ul li{
 	width: 1200px;
 	height: 100px;
 	clear: both;
-	background-image: url( images/foot.gif);
+	background-image: url( foot.gif);
 	
 	margin-left: 150px;
 }
