@@ -4,23 +4,23 @@ body{
 	font: 12px 宋体;
 	padding: 0px;
 	color: #522a06; 
-	background-image: url(images/bodybg.gif);
+	background-image: url(bodybg.gif);
 }
 #header{
 	height: 205px;
-	background-image: url( images/bg.gif);
+	background-image: url( bg.gif);
 	background-position: center top; 
 }
 #banner{
 	width: 1300px;
 	height: 164px;
-	background-image: url(images/logo.png);
+	background-image: url(logo.png);
 	background-position: 200px 25px;
 	background-repeat: no-repeat;
 }
 #nav{
 	height: 40px;
-	background-image: url( images/nav.jpg);
+	background-image: url( nav.jpg);
 }
 #nav_body{
 	width: 1300px;
@@ -88,9 +88,7 @@ a.z:hover{
 .news_pic{
 	width: 330px;
 	height: 250px;
-	background-image: url(images/news_bg.png);
-	background-width:300px;
-	background-height:200px;  
+	background-image: url(news_bg.png);
 	float: left;
 	text-align: center;
 	margin-left: 150px;
@@ -101,7 +99,7 @@ a.z:hover{
 	width: 400px;
 	margin-left: 38px;
 	float: left;
-	background-image: url(images/change.png);
+	background-image: url(change.png);
 	background-repeat: no-repeat;
 	
 }
@@ -120,7 +118,7 @@ ul{
 	width: 277px;
 	margin-top: 20px;
 	float: left;
-	background-image: url( images/board_bg.png);
+	background-image: url(board_bg.png);
 	width: 285px;
 	height: 225px;
 	background-position: 0px 20px;
@@ -130,7 +128,7 @@ ul{
 }
 .academic{
 	width: 330px;
-	background-image: url(images/academic.png);
+	background-image: url(academic.png);
 	background-repeat: no-repeat;
 	height:100px; 
 	float: left;
@@ -143,7 +141,7 @@ ul{
 	height: 100px;
 	background-repeat: no-repeat;
 	margin: 10px;
-	background-image: url(images/book_news.png);
+	background-image: url(book_news.png);
 	float: right;
 	background-position: center top;
 	margin-top: 15px;
@@ -153,7 +151,7 @@ ul{
 	width: 700px;
 	clear: both;
 	margin-top: 200px;
-	background-image: url( images/fengcai_bg1.png);
+	background-image: url( fengcai_bg1.png);
 	background-repeat: no-repeat;
 	
 	
@@ -166,9 +164,8 @@ ul{
 }
 #content_bottom_right{
 	width: 362px;
-	background-image: url(  images/show_bg.png);
+	background-image: url( show_bg.png);
 	background-position: center top;
-	background-width:224px;
 	background-repeat: no-repeat;
 	line-height: 20px;
 	
@@ -180,7 +177,7 @@ ul{
 	width: 1200px;
 	height: 100px;
 	clear: both;
-	background-image: url( images/foot.gif);
+	background-image: url(foot.gif);
 	
 	margin-left: 150px;
 }
